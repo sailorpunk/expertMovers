@@ -1,6 +1,6 @@
 
 .header {
-  background-image: url('images/billings.jpg');
+  background-image: url("images/billings.jpg");
   background-position: 350px 0px;
   background-size: auto 130px;
   overflow: hidden;
